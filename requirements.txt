@@ -1,3 +1,4 @@
 certifi==2020.11.8
 elasticsearch==7.10.0
 urllib3==1.26.2
+jsonformatter==0.3.0
