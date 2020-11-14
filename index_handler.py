@@ -1,0 +1,1 @@
+# Index handling script
