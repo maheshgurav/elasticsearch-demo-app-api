@@ -31,3 +31,11 @@ To re-index please use following script,
 ```
 index_handler.py -o reindex -s <SOURCE INDEX NAME> -d <DESTINATION INDEX NAME>
 ```
+
+
+#### Add new field to indexex matching project_*
+
+To re-index please use following script,
+```
+data_handler.py -o update
+```
