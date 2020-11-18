@@ -33,9 +33,16 @@ index_handler.py -o reindex -s <SOURCE INDEX NAME> -d <DESTINATION INDEX NAME>
 ```
 
 
-#### Add new field to indexex matching project_*
+#### Add new field to indexes matching project_*
 
-To re-index please use following script,
+To add new field to the documents please use following script,
 ```
 data_handler.py -o update
+```
+
+#### Add data to indexe
+
+To add data to the index,
+```
+data_handler.py -o upload -file <FILE PATH> -index <INDEX NAME>
 ```
