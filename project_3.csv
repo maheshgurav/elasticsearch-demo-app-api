@@ -1,0 +1,37 @@
+TASK, TASK_TYPE
+Installation planning, PRODUCT INSTALLATION
+Meet prerequisites, PRODUCT INSTALLATION
+Install hardware / software, PRODUCT INSTALLATION
+Test hardware / software, PRODUCT INSTALLATION
+User acceptance/project review, PRODUCT INSTALLATION
+Review business requirements, DIMENSIONAL DATA MODEL DESIGN
+Review/develop data warehouse bus matrix, DIMENSIONAL DATA MODEL DESIGN
+Select business process, DIMENSIONAL DATA MODEL DESIGN
+Declare fact table grain, DIMENSIONAL DATA MODEL DESIGN
+Identify dimensions, DIMENSIONAL DATA MODEL DESIGN
+Identify metrics, DIMENSIONAL DATA MODEL DESIGN
+Develop high level model diagram, DIMENSIONAL DATA MODEL DESIGN
+Document attributes list, DIMENSIONAL DATA MODEL DESIGN
+Identify candidate data sources, DIMENSIONAL DATA MODEL DESIGN
+Profile data, DIMENSIONAL DATA MODEL DESIGN
+Develop base and derived metrics, DIMENSIONAL DATA MODEL DESIGN
+Design detailed dimensional model, DIMENSIONAL DATA MODEL DESIGN
+Review data model with IT, DIMENSIONAL DATA MODEL DESIGN
+Review data model with business users, DIMENSIONAL DATA MODEL DESIGN
+Review design recommendations for BI Tool, DIMENSIONAL DATA MODEL DESIGN
+Review design recommendations for DBMS, DIMENSIONAL DATA MODEL DESIGN
+Finalize logical design documentation, DIMENSIONAL DATA MODEL DESIGN
+Draft source to target data map, DIMENSIONAL DATA MODEL DESIGN
+User acceptance/project review, DIMENSIONAL DATA MODEL DESIGN
+Define standards for physical objects, PHYSICAL DATABASE DESIGN
+Design physical tables & columns, PHYSICAL DATABASE DESIGN
+Finalize the source to target map, PHYSICAL DATABASE DESIGN
+Estimate database size, PHYSICAL DATABASE DESIGN
+Design development database, PHYSICAL DATABASE DESIGN
+Design auditing and staging tables, PHYSICAL DATABASE DESIGN
+Develop initial index plan, PHYSICAL DATABASE DESIGN
+Design the OLAP database, PHYSICAL DATABASE DESIGN
+Develop initial aggregation plan, PHYSICAL DATABASE DESIGN
+Develop initial partitioning plan, PHYSICAL DATABASE DESIGN
+User acceptance/project review, PHYSICAL DATABASE DESIGN
+
